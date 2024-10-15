@@ -47,3 +47,9 @@
 
 https://github.com/user-attachments/assets/fe63d5a1-1063-4583-9872-f09fa319ef85
 
+### 💻 Articles
+
+- EN [Link Dev.to](https://dev.to/luizrebelatto/stack-screen-bottom-tab-navigation-stack-screen-4flo)
+
+- PT-BR [Link Medium](https://medium.com/@lbrebelatto/stack-screen-bottom-tab-navigation-stack-screen-515e7330a99a)
+
