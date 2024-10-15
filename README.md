@@ -15,7 +15,7 @@
 - @react-navigation/native-stack
 - React navigation v6
 
-## Structure
+## 🏛️ Structure
 ```
 ├── src
 │   ├── routes
