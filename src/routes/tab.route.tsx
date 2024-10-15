@@ -7,7 +7,7 @@ import { getFocusedRouteNameFromRoute } from "@react-navigation/native";
 
 export default function TabRoutes(){
     const Tab = createBottomTabNavigator()
-    
+
     return (
         <Tab.Navigator 
         screenOptions={({ route }) => ({
@@ -18,7 +18,6 @@ export default function TabRoutes(){
                   return { display: 'none' };
                 }
               })(route),
-            tabBarShowLabel: false
           })}
         >
             <Tab.Screen name="groupScreen" component={StackGroupRoutes} options={{ title: "Group Tab" }}/>
